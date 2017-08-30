@@ -4,7 +4,7 @@ To view the passwords you must use the program to decrypt your passwords.
 
 How to use:
 1. In Terminal, go to directory where password_storage is saved.
-2. Type into Terminal:
+2. Type into Terminal: </br>
 $ g++ main.cpp </br>
 $ ./a.out
 3. Enjoy. 
